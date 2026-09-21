@@ -1,0 +1,6 @@
+{
+  "name": "Lagget",
+  "description": "Comprehensive world language learning app under Ramco Institute of Technology (Autonomous) featuring AI-powered speaking practice and real-time cultural insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

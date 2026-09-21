@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lagget</string>
+    <string name="app_tagline">Ramco Institute of Technology (Autonomous)</string>
+    <string name="nav_languages">World Languages</string>
+    <string name="nav_culture">Cultural Insights</string>
+    <string name="nav_speaking">AI Speaking</string>
+    <string name="nav_rit">RIT Heritage</string>
+    <string name="search_languages_hint">Search world languages or script…</string>
+    <string name="category_all">All</string>
+    <string name="ask_ai_culture_title">Explore Custom Cultural Insight</string>
+    <string name="ask_ai_culture_hint">Ask about festivals, dining, business etiquette…</string>
+    <string name="generate_insight_btn">Generate AI Insight</string>
+    <string name="speaking_title">AI Speaking Practice</string>
+    <string name="listen_pronunciation">Listen</string>
+    <string name="start_speaking">Speak Now</string>
+    <string name="stop_speaking">Stop</string>
+    <string name="evaluating_speech">Analyzing pronunciation with Gemini AI…</string>
+    <string name="score_label">Linguistic Score</string>
+</resources>
